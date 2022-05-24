@@ -1,0 +1,1 @@
+the require method throw an error and stops execution if some condition is not true. We can use this in order to prevent calling createRandomZombie mutilple (countless :D) times.

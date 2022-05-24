@@ -1,4 +1,5 @@
-in Solidity there are global variables available to all functions. Here we are going to use msg.sender which refers to the address of the person ( or smart contract ) who called the current function.
+# msg.sender
+In Solidity there are global variables available to all functions. Here we are going to use msg.sender which refers to the address of the person ( or smart contract ) who called the current function.
 
 In Solidity, function execution **always** need to start with an external caller. So there will always be a msg.sender.
 

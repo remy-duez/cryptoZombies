@@ -1,0 +1,1 @@
+to inherit in solidity and be able to split the code logic you can use the keyword **is** . This means that you will have access to the parents methods inside the children. 

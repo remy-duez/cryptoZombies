@@ -1,0 +1,1 @@
+Interfaces allow us to use methods from ither contracts if they are public or external.

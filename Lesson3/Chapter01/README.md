@@ -1,0 +1,1 @@
+Contracts are immutable. Deployed code will stay permanently into the blockchain. This is why security is so important. If there's a breach in the code of the contract there is no way to patch it later. You'll have to deploy another contract if you need to correct it and redirect your users on it. 
